@@ -1,0 +1,27 @@
+h1{
+    color: #FEB05D;
+    font-size: 50px;
+    
+}
+body{
+    background:linear-gradient(#F7F6E5, #061E29)
+}
+h2{
+    color: #5A7ACD;
+}
+.Jogos{
+    color: #222222;
+}
+.site{
+    font-family: "Arial";
+}
+.Time{
+    color: #233D4D;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+.resumo{
+    color: #061E29;
+}
